@@ -1,0 +1,7 @@
+.next
+node_modules
+.omo
+redis_data
+target
+.pytest_cache
+__pycache__
